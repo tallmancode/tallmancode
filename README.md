@@ -1,3 +1,4 @@
+<img src="https://github.com/tallmancode/tallmancode/blob/a591eaa540fa1411083c82fc28bb2fac20c531f8/gh-header-image-cropped.jpg" alt="tallmancode banner">
 <h1 align="center">Hi 👋, I'm TallmanCode</h1>
 <h3 align="center">Senior full stack developer specializing in JavaScript, PHP, MySQL, and Vue.</h3>
 
