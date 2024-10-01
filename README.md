@@ -4,6 +4,7 @@
 <div>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://tallmancode.co.za"><img src="https://github.com/tallmancode/tallmancode/blob/main/blog_button.jpg?raw=true" alt="Blog Badge" data-canonical-src="https://github.com/tallmancode/tallmancode/blob/main/blog_button.jpg?raw=true" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/stevestewart84"><img src="https://github.com/tallmancode/tallmancode/blob/main/linkedin_button_icon.jpg?raw=true" alt="Linkedin Badge" data-canonical-src="https://github.com/tallmancode/tallmancode/blob/main/linkedin_button_icon.jpg?raw=true" style="max-width: 100%;"></a>
+  <img src="https://komarev.com/ghpvc/?username=tallmancode&label=Profile%20views&color=0e75b6&style=flat" alt="tallmancode" />
 </div>
 <p align="center">
   As a self-taught software developer, my foray into the digital world began amidst the creative confines of my photography studio, where I first dabbled with WordPress's core code. This initial curiosity blossomed into a full-blown passion, propelling me beyond the realms of WordPress into the intricate landscapes of PHP, MySQL, CSS, HTML, JavaScript, and TypeScript. Today, I am a seasoned developer, adept in modern frameworks and technologies such as Vue.js, Laravel, and Symfony, continually expanding my expertise across the tech spectrum.
@@ -12,8 +13,6 @@ My professional odyssey has been diverse, steering me from entrepreneurial ventu
 
 At the heart of my career is a profound enthusiasm for tackling complex challenges and a commitment to crafting software solutions that not only solve problems but also enrich lives. Whether it's enhancing user experience, streamlining business processes, or contributing to team growth, my goal is to leverage my skills to create impactful and enduring technological advancements.
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tallmancode&label=Profile%20views&color=0e75b6&style=flat" alt="tallmancode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tallmancode" alt="tallmancode" /></a> </p>
 
