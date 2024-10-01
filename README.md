@@ -1,6 +1,10 @@
 <img src="https://github.com/tallmancode/tallmancode/blob/a591eaa540fa1411083c82fc28bb2fac20c531f8/gh-header-image-cropped.jpg" alt="tallmancode banner">
 <h1 align="center">Hi 👋, I'm TallmanCode</h1>
 <h3 align="center">Senior full stack developer specializing in JavaScript, PHP, MySQL, and Vue.</h3>
+<div>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://tallmancode.co.za"><img src="https://github.com/tallmancode/tallmancode/blob/main/blog_button.jpg?raw=true" alt="Blog Badge" data-canonical-src="https://github.com/tallmancode/tallmancode/blob/main/blog_button.jpg?raw=true" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/stevestewart84"><img src="https://github.com/tallmancode/tallmancode/blob/main/linkedin_button_icon.jpg?raw=true" alt="Linkedin Badge" data-canonical-src="https://github.com/tallmancode/tallmancode/blob/main/linkedin_button_icon.jpg?raw=true" style="max-width: 100%;"></a>
+</div>
 <p align="center">
   As a self-taught software developer, my foray into the digital world began amidst the creative confines of my photography studio, where I first dabbled with WordPress's core code. This initial curiosity blossomed into a full-blown passion, propelling me beyond the realms of WordPress into the intricate landscapes of PHP, MySQL, CSS, HTML, JavaScript, and TypeScript. Today, I am a seasoned developer, adept in modern frameworks and technologies such as Vue.js, Laravel, and Symfony, continually expanding my expertise across the tech spectrum.
 
