@@ -1,6 +1,13 @@
 <img src="https://github.com/tallmancode/tallmancode/blob/a591eaa540fa1411083c82fc28bb2fac20c531f8/gh-header-image-cropped.jpg" alt="tallmancode banner">
 <h1 align="center">Hi 👋, I'm TallmanCode</h1>
 <h3 align="center">Senior full stack developer specializing in JavaScript, PHP, MySQL, and Vue.</h3>
+<p align="center">
+  As a self-taught software developer, my foray into the digital world began amidst the creative confines of my photography studio, where I first dabbled with WordPress's core code. This initial curiosity blossomed into a full-blown passion, propelling me beyond the realms of WordPress into the intricate landscapes of PHP, MySQL, CSS, HTML, JavaScript, and TypeScript. Today, I am a seasoned developer, adept in modern frameworks and technologies such as Vue.js, Laravel, and Symfony, continually expanding my expertise across the tech spectrum.
+
+My professional odyssey has been diverse, steering me from entrepreneurial ventures to pivotal roles in technology management. I've embraced various capacities - as a studio owner, an accounts manager, a mentor to budding developers, and a technology manager working alongside CTOs. These roles have sculpted my proficiency in leading dynamic teams, steering substantial projects, cultivating client relationships, and mastering Linux server management and Agile methodologies.
+
+At the heart of my career is a profound enthusiasm for tackling complex challenges and a commitment to crafting software solutions that not only solve problems but also enrich lives. Whether it's enhancing user experience, streamlining business processes, or contributing to team growth, my goal is to leverage my skills to create impactful and enduring technological advancements.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tallmancode&label=Profile%20views&color=0e75b6&style=flat" alt="tallmancode" /> </p>
 
