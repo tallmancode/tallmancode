@@ -25,34 +25,6 @@
   At the heart of my career is a profound enthusiasm for tackling complex challenges and a commitment to crafting software solutions that not only solve problems but also enrich lives. Whether it's enhancing user experience, streamlining business processes, or contributing to team growth, my goal is to leverage my skills to create impactful and enduring technological advancements.
 </p>
 
----
-
-## 🔭 What I'm Currently Working On
-
-- Working at [Betway Africa](https://betway.mw) as a Senior Full Stack Developer
-
----
-
-## 📊 GitHub Stats
-
-<div style="text-align: center;">
-  <img style="height: 180em;" src="https://github-readme-stats.vercel.app/api?username=tallmancode&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="tallmancode" />
-  <img style="height: 180em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallmancode&theme=radical&layout=compact&langs_count=8&hide_border=false" alt="tallmancode" />
-</div>
-
-<div style="text-align: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=tallmancode" alt="tallmancode" />
-</div>
-
-<div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=tallmancode" alt="tallmancode" />
-</div>
-
-<div style="text-align: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tallmancode&theme=default" alt="tallmancode" />
-</div>
-
----
 
 ## 🛠️ Languages and Tools
 
